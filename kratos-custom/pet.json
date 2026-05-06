@@ -1,0 +1,6 @@
+{
+  "id": "kratos-custom",
+  "displayName": "Kratos Custom",
+  "description": "A custom tiny stern warrior Codex pet inspired by Kratos, generated in the built-in digital pet style.",
+  "spritesheetPath": "spritesheet.webp"
+}

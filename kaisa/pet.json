@@ -1,0 +1,7 @@
+{
+  "id": "kaisa",
+  "displayName": "Kai'Sa",
+  "description": "A tiny void elf crystal-blade companion with violet eyes and purple energy.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "object"
+}
