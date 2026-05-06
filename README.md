@@ -40,4 +40,5 @@ git clone git@github.com:guguji666666/codex-pets.git ~/.codex/pets
 | Kai'Sa | <img src="./kaisa/preview.gif" width="120" alt="Kai'Sa"> |
 | Kratos | <img src="./kratos/preview.gif" width="120" alt="Kratos"> |
 | Kratos Custom | <img src="./kratos-custom/preview.gif" width="120" alt="Kratos Custom"> |
+| Lucky | <img src="./lucky/preview.gif" width="120" alt="Lucky"> |
 | Mimi | <img src="./mimi/preview.gif" width="120" alt="Mimi"> |
